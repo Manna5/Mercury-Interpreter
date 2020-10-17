@@ -1,0 +1,5 @@
+#Division example in Mercury
+SET D TO 32
+ECHO D is $D
+DIVIDE D BY 8
+ECHO D is now $D

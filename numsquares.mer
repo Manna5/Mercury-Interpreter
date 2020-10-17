@@ -1,0 +1,8 @@
+#Number squares in Mercury
+REPEAT 10
+ SET A TO $.
+ INC A
+ SET B TO $A
+ MULTIPLE B BY $B
+ ECHO $A^2=$B
+ENDR

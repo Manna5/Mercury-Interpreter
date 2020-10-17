@@ -1,0 +1,5 @@
+#Example with accesing repeat counter in Mercury
+REPEAT 10
+ ECHO Counter is $.
+ENDR
+STOP

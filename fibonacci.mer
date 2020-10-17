@@ -1,0 +1,10 @@
+#Fibonacci's number list
+SET A TO 1
+SET B TO 0
+REPEAT 10
+ SET C TO $A
+ ADD $B TO C
+ ECHO $C
+ SET A TO $B
+ SET B TO $C
+ENDR

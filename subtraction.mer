@@ -1,0 +1,5 @@
+#Subtraction example in Mercury
+SET B TO 9
+ECHO B is $B
+SUBTRACT 3 FROM B
+ECHO B is now $B

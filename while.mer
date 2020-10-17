@@ -1,0 +1,7 @@
+#While loop example in Mercury
+SET I TO 10
+WHILE $I GTR 0
+ ECHO I is $I
+ DEC I
+ENDW
+ECHO End of while loop.

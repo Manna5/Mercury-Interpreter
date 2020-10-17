@@ -1,0 +1,5 @@
+#Debugging example with indents
+REPEAT 2
+ ECHO It will be displayed twice!
+ENDR
+STOP

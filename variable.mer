@@ -1,0 +1,7 @@
+#Variable test in Mercury
+SET N TO 15
+CONST M IS $N
+ECHO Variable N is $N
+SET N TO 25
+ECHO Now variable N is $N
+ECHO But I have got a backup in M constant - it is %M

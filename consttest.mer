@@ -1,0 +1,3 @@
+#Constant example in Mercury
+CONST A IS 3
+ECHO %A

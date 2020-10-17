@@ -1,0 +1,5 @@
+#Addition example in Mercury
+SET A TO 3
+ECHO A is $A
+ADD 2 TO A
+ECHO A is now $A

@@ -1,0 +1,10 @@
+#Conditional statement example 2
+REPEAT 10
+ SET X TO $.
+ INC X
+ ECHO $X
+ IF $X EQU 5
+  ECHO Halfway done!
+ ENDI
+ENDR
+STOP

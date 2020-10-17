@@ -1,0 +1,9 @@
+#Mercury language loop example
+REPEAT 5
+ECHO This will be displayed 5 times.
+ENDR
+ECHO Entering next loop
+REPEAT 2
+ECHO And this will be displayed 2 times only.
+ENDR
+STOP

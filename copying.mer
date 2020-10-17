@@ -1,0 +1,7 @@
+#Example of constant copying
+CONST A IS 4
+CONST B IS 7
+CONST C IS %A
+ECHO %A
+ECHO %B
+ECHO %C

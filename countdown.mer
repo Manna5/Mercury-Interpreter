@@ -1,0 +1,8 @@
+#Countdown example in Mercury
+SET I TO 15
+REPEAT 15
+ ECHO $I seconds to start...
+ DEC I
+ENDR
+ECHO Fire!
+STOP

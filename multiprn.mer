@@ -1,0 +1,4 @@
+#Multi constant printing example
+CONST A IS 8
+CONST B IS 16
+ECHO A is %A, B is %B

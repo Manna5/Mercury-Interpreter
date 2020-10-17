@@ -1,0 +1,8 @@
+#Conditional statement usage example
+CONST A IS 5
+IF %A EQU 5
+ ECHO This will be displayed.
+ENDI
+IF %A EQU 3
+ ECHO This wont be displayed.
+ENDI

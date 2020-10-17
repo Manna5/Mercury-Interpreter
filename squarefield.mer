@@ -1,0 +1,4 @@
+#Square 5x5 - calculate field
+SET A TO 5
+MULTIPLE A BY 4
+ECHO 5x5 Square's field: $A

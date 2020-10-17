@@ -1,0 +1,4 @@
+#Example with STOP statement
+ECHO This will be displayed.
+STOP
+ECHO This cannot be displayed.
